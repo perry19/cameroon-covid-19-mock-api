@@ -1,0 +1,14 @@
+{
+  "name": "covid-19-mock-api",
+  "version": "1.0.0",
+  "description": "covid-19 Mock API for Cameroon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Perry",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
