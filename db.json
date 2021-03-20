@@ -1,0 +1,119 @@
+{
+    "totals": {
+        "totalConfirmed": 154,
+        "totalDeaths": 52,
+        "totalRecovered": 102
+    },
+    "areas": [
+        {
+            "totalConfirmed": 24,
+            "totalDeaths": 4,
+            "totalRecovered": 20,
+            "id": "LT",
+            "region": "Littoral",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "Littoral",
+            "lat": 36.56311586,
+            "long": 103.7358068
+        },
+        {
+            "totalConfirmed": 27,
+            "totalDeaths": 7,
+            "totalRecovered": 20,
+            "id": "CE",
+            "region": "Centre",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "Centre",
+            "lat": 37.56311586,
+            "long": 104.7358068
+        },
+        {
+            "totalConfirmed": 2,
+            "totalDeaths": 0,
+            "totalRecovered": 2,
+            "id": "SW",
+            "region": "South West",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "South West",
+            "lat": 33.56311586,
+            "long": 109.7358068
+        },
+        {
+            "totalConfirmed": 5,
+            "totalDeaths": 2,
+            "totalRecovered": 3,
+            "id": "NW",
+            "region": "North West",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "North West",
+            "lat": 31.56311586,
+            "long": 106.7358068
+        },
+        {
+            "totalConfirmed": 17,
+            "totalDeaths": 6,
+            "totalRecovered": 11,
+            "id": "SO",
+            "region": "South",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "South",
+            "lat": 37.56311586,
+            "long": 110.7358068
+        },
+        {
+            "totalConfirmed": 23,
+            "totalDeaths": 10,
+            "totalRecovered": 13,
+            "id": "FN",
+            "region": "Far North",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "Far North",
+            "lat": 33.56311586,
+            "long": 109.7358068
+        },
+        {
+            "totalConfirmed": 13,
+            "totalDeaths": 6,
+            "totalRecovered": 7,
+            "id": "NO",
+            "region": "North",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "North",
+            "lat": 32.56311586,
+            "long": 109.7358068
+        },
+        {
+            "totalConfirmed": 12,
+            "totalDeaths": 5,
+            "totalRecovered": 7,
+            "id": "AD",
+            "region": "Adamawa",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "Adamawa",
+            "lat": 31.56311586,
+            "long": 109.7358068
+        },
+        {
+            "totalConfirmed": 9,
+            "totalDeaths": 1,
+            "totalRecovered": 8,
+            "id": "ET",
+            "region": "East",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "East",
+            "lat": 29.56311586,
+            "long": 99.7358068
+        },
+        {
+            "totalConfirmed": 26,
+            "totalDeaths": 10,
+            "totalRecovered": 16,
+            "id": "WE",
+            "region": "West",
+            "lastUpdated": "2021-03-18T18:14:33.098Z",
+            "displayName": "West",
+            "lat": 34.56311586,
+            "long": 109.7358068
+        }
+    ]
+}
